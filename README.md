@@ -3,6 +3,7 @@ This project is a secure file deletion utility that encrypts and subsequently de
 
 ## Features:
 - Customizable encryption rounds (Default is 3).
+- It uses unique random key for every single file.
 - File selection by clicking the file upload area or dragging and dropping files.
 - If Control Mode is not enabled, operations proceed automatically. If Control Mode is active, user confirmation is required for each operation.
 
